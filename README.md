@@ -40,7 +40,7 @@ Este é um jogo interativo, desenvolvido com **JavaScript**, onde o objetivo é 
 
 ## 🎮 Como Jogar  
 
-1. Acesse o link direto [![Jogue Agora](https://img.shields.io/badge/Jogue-Agora-brightgreen?style=for-the-badge)](https://jogo-sooty-beta-59.vercel.app/)
+1. Acesse o link direto [![Jogue Aqui!](https://img.shields.io/badge/Jogue-Agora-brightgreen?style=for-the-badge)](https://jogo-sooty-beta-59.vercel.app/)
 **OU**
 2. Abra o arquivo `index.html` no navegador.
 3. Insira um número no campo de entrada.  
