@@ -29,6 +29,7 @@ Este é um jogo interativo, desenvolvido com **JavaScript**, onde o objetivo é 
 
 ```plaintext
 .
+|-- img
 ├── index.html   # Página principal do jogo.
 ├── style.css    # Arquivo de estilos.
 ├── app.js    # Lógica do jogo.
