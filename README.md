@@ -57,7 +57,7 @@ Este é um jogo interativo, desenvolvido com **JavaScript**, onde o objetivo é 
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/yararosasilva/jogo-adivinhacao.git
+   git clone https://github.com/yarazip/jogo-do-numero-secreto.git
    ```  
 
 2. Navegue até a pasta do projeto:  
